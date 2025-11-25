@@ -75,10 +75,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 }
-labels[0] {"texts' : ["중국식 냉면은 맛있어"], "images" : [https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg]
-labels[1] {"texts' : ["짜장면은 맛있어"], "images" : [https://minio.nculture.org/amsweb-opt/multimedia_assets/5/13787/20519/c/13787-full-size.jpg]
-labels[2] {"texts' : ["짬뽕은 맛있어"], "images" : [https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp]
-labels[3] {"texts' : ["탕수육 맛있어"], "images" : [https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg]
+labels[0] : {"texts' : ["중국식 냉면은 맛있어"], "images" : [https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/71c93efd-352d-4fb4-8a98-dd1b51475442.jpg]
+labels[1] : {"texts' : ["짜장면은 맛있어"], "images" : [https://minio.nculture.org/amsweb-opt/multimedia_assets/5/13787/20519/c/13787-full-size.jpg]
+labels[2] : {"texts' : ["짬뽕은 맛있어"], "images" : [https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp]
+labels[3] : {"texts' : ["탕수육 맛있어"], "images" : [https://recipe1.ezmember.co.kr/cache/recipe/2020/07/05/2e0e7c019f283bcc36d34cdee876d15b1.jpg]
 # ======================
 # 유틸
 # ======================
